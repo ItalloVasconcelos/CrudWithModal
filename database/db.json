@@ -1,0 +1,19 @@
+{
+  "alunos": [
+    {
+      "id": 3,
+      "nome": "Teaago Limaa",
+      "email": "tiagu@test.com"
+    },
+    {
+      "nome": "ITALLO",
+      "email": "itallosavio007@gmail.com",
+      "id": 5
+    },
+    {
+      "nome": "Teaago  ",
+      "email": "tiagu@test.com",
+      "id": 6
+    }
+  ]
+}
